@@ -3,6 +3,9 @@ Modified-Deedy-Resume
 
 Few tweaks to the original Deedy-Resume template.
 
+## Preview
+<img src="https://github.com/apurvmishra99/Modified-Deedy-Resume/blob/master/resume.png" alt="preview" width="500"/>
+
 ## Changelog
 ### v0.0.1
 - Shift the ordering of the columns
